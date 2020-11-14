@@ -26,7 +26,7 @@ export default function Index({inverted, setInverted}) {
 
   var i = 0;
 
-  var speed = 200; /* The speed/duration of the effect in milliseconds */
+  var speed = 201; /* The speed/duration of the effect in milliseconds */
 
   const [opacity, setOpacity] = useState(false);
   const [maxS, setMaxS] = useState();
